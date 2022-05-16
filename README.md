@@ -8,4 +8,5 @@
   5. https://gist.github.com/darthbhyrava/21c395f09d5f415f5f65de879974a1a1
   6. https://stackabuse.com/spelling-correction-in-python-with-textblob/
   7. https://www.geeksforgeeks.org/correcting-words-using-nltk-in-python/
+  8. https://github.com/Currie32/Spell-Checker/blob/master/SpellChecker.ipynb 
   
